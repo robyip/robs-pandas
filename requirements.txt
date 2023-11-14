@@ -1,0 +1,6 @@
+# Requirements without version numbers
+pandas
+
+
+# Requirements with version numbers
+
